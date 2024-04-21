@@ -2,9 +2,7 @@
 
 int main(void)
 {
-	printf("hello");
-	printf("hotfix test");
-	printf("hotfix2 test");
-	printf("rebase test");
+	printf("rebase1 test");
+	printf("rebase2 test");
 	return (0);
 }
