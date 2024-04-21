@@ -8,6 +8,7 @@ int main(void)
 	printf("rebase3 test");
 	printf("rebase4 test");
 	printf("rebase5 test");
+	printf("rebase6 test");
 	return (0);
 }
 
